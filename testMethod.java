@@ -6,6 +6,6 @@ import org.junit.*;
 public class testMethod {
     @Test
     public void test1(){
-        assertEquals(method.product(1,2), 3);
+        assertEquals(method.product(1,2), 2);
     }
 }
